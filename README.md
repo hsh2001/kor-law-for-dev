@@ -29,3 +29,6 @@
 마크다운의 사용법을 모르신다면 `txt` 확장자로 우선 작성하시고
 변환작업을 [이슈](https://github.com/tmdgus0084/kor-law-for-dev/issues)에 
 등록해주시기 바랍니다.
+
+## 라이선스
+[MIT License](https://github.com/tmdgus0084/kor-law-for-dev/blob/master/LICENSE)
