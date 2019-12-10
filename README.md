@@ -23,16 +23,12 @@
 
 -->
 
-## Pull Request
+## 풀 리퀘스트
 ~~당기기요청..?~~
 한국 개발자를 위한 법률 정보라면 무엇이든 좋습니다.
-커밋 메시지와 폴더나 파일의 이름은 최대한 한글로 작성하며,
-폴더로 관련있는 파일을
-그룹화하거나 기존에 있는 관련 폴더를 찾아
-마크다운으로 작성된 파일을 추가해주시기 바랍니다.
-마크다운의 사용법을 모르신다면 `txt` 확장자로 우선 작성하시고
-변환작업을 [이슈](https://github.com/tmdgus0084/kor-law-for-dev/issues)에
-등록해주시기 바랍니다.
+자세한 내용은
+[여기를](https://github.com/tmdgus0084/kor-law-for-dev/blob/master/CONTRIBUTING.md)
+참고해주세요!
 
 ## 라이선스
 [MIT License](https://github.com/tmdgus0084/kor-law-for-dev/blob/master/LICENSE)
