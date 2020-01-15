@@ -12,7 +12,7 @@
 
 ## 프로그램 개발
 - [보안](https://github.com/tmdgus0084/kor-law-for-dev/blob/master/프로그램_개발/보안/)
-  - [개인정보 암호화](https://github.com/tmdgus0084/kor-law-for-dev/blob/master/프로그램_개발/보안/개인정보_암호화.md)
+  - [비밀번호 암호화](https://github.com/tmdgus0084/kor-law-for-dev/blob/master/프로그램_개발/보안/비밀번호_암호화.md)
 
 ## 실무 활동
 > 아직 내용이 없습니다. 좋은 정보가 있다면 PR 부탁드립니다!
