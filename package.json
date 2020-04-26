@@ -1,0 +1,18 @@
+{
+  "name": "kor-law-for-dev",
+  "version": "1.0.0",
+  "description": "개발자들이 숙지해야할 한국의 법률을 모았습니다.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsh2001/kor-law-for-dev.git"
+  },
+  "author": "Seung-hyun Hwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsh2001/kor-law-for-dev/issues"
+  },
+  "homepage": "https://github.com/hsh2001/kor-law-for-dev#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1"
+  }
+}
