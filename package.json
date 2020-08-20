@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/hsh2001/kor-law-for-dev#readme",
   "dependencies": {
-    "bcrypt": "^4.0.1"
+    "bcrypt": "^5.0.0"
   }
 }
