@@ -2,11 +2,6 @@
 
 개발자들이 숙지해야할 한국의 법률을 모았습니다.
 
-## 브랜치
-
-- [master](https://github.com/tmdgus0084/kor-law-for-dev/tree/master): 메인 브랜치. 완성된 문서의 버전이 기록됩니다.
-- [work](https://github.com/tmdgus0084/kor-law-for-dev/tree/work): 작업 단위 브랜치. 작업중인 버전이 기록되며 하나의 작업이 완료되면 master 브랜치로 머지합니다. ~~이게 머지?~~
-
 ## 주요 법률
 
 - [정보통신망 이용촉진 및 정보보호 등에 관한 법률](http://www.law.go.kr/법령/정보통신망%20이용촉진%20및%20정보보호%20등에%20관한%20법률)
